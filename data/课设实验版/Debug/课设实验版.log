@@ -1,0 +1,11 @@
+﻿  源.cpp
+C:\Users\16936\Desktop\数构课设\课设实验版\源.cpp(243,15): warning C4101: “m”: 未引用的局部变量
+C:\Users\16936\Desktop\数构课设\课设实验版\源.cpp(243,9): warning C4101: “w”: 未引用的局部变量
+C:\Users\16936\Desktop\数构课设\课设实验版\源.cpp(243,12): warning C4101: “n”: 未引用的局部变量
+C:\Users\16936\Desktop\数构课设\课设实验版\源.cpp(290,15): warning C4101: “m”: 未引用的局部变量
+C:\Users\16936\Desktop\数构课设\课设实验版\源.cpp(290,9): warning C4101: “w”: 未引用的局部变量
+C:\Users\16936\Desktop\数构课设\课设实验版\源.cpp(290,12): warning C4101: “n”: 未引用的局部变量
+C:\Users\16936\Desktop\数构课设\课设实验版\源.cpp(596,13): warning C4101: “G4”: 未引用的局部变量
+C:\Users\16936\Desktop\数构课设\课设实验版\源.cpp(99): warning C4715: “LocateVex_ADM”: 不是所有的控件路径都返回值
+C:\Users\16936\Desktop\数构课设\课设实验版\源.cpp(108): warning C4715: “LocateVex_ALM”: 不是所有的控件路径都返回值
+  课设实验版.vcxproj -> C:\Users\16936\Desktop\数构课设\课设实验版\Debug\课设实验版.exe
